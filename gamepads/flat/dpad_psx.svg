@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="86"
+   height="74"
+   id="svg5201"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="dpad-down_psx.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="dpad_psx.svg">
+  <defs
+     id="defs5203">
+    <filter
+       id="filter5466"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5468"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         id="feComposite5470"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5472"
+         in="composite"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset5474"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite5476"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5466-1"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood5468-7"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5470-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5472-0"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset5474-1"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite5476-6"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="137.27316"
+     inkscape:cy="20.077972"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5209"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-978.36218)">
+    <g
+       transform="matrix(0,-1,1,0,-54.175011,1094.894)"
+       id="g3922-0-2"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter5466)"
+       inkscape:export-filename="C:\dev\ppsspp\source_assets\image\dir_line.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4891-9-7"
+         d="m 104.53182,64.175011 0,47.330589 -25.041125,21.66941 -24.958875,-21.66941 0,-47.330589 z"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.99999988000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,-54.175011,1094.894)"
+       id="g3922-0-2-4"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\dev\ppsspp\source_assets\image\dir_line.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4891-9-7-0"
+         d="m 104.53182,64.175011 0,47.330589 -25.041125,21.66941 -24.958875,-21.66941 0,-47.330589 z"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,241.13182,916.68717)"
+       id="g3922-0-2-3"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5466-1);enable-background:accumulate"
+       inkscape:export-filename="C:\dev\ppsspp\source_assets\image\dir_line.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4891-9-7-2"
+         d="m 110.13182,58.575011 0,47.330589 -25.041125,21.66941 -24.958875,-21.66941 0,-47.330589 z"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,241.13182,916.68717)"
+       id="g3922-0-2-4-8"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\dev\ppsspp\source_assets\image\dir_line.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4891-9-7-0-1"
+         d="m 110.13182,58.575011 0,47.330589 -25.041125,21.66941 -24.958875,-21.66941 0,-47.330589 z"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

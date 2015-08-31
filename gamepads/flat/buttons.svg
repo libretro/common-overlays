@@ -3545,6 +3545,38 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter5189"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5191"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5193"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5195"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5197"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite5199"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3554,8 +3586,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="534.58508"
-     inkscape:cy="687.77946"
+     inkscape:cx="123.12788"
+     inkscape:cy="522.79958"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -4090,23 +4122,6 @@
        inkscape:export-filename="L1_down.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135" />
-    <g
-       transform="matrix(0,-1,1,0,151.10421,385.27668)"
-       id="g3922-0-2"
-       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5084-2);enable-background:accumulate"
-       inkscape:export-filename="C:\dev\ppsspp\source_assets\image\dir_line.png"
-       inkscape:export-xdpi="135"
-       inkscape:export-ydpi="135">
-      <path
-         inkscape:export-ydpi="135"
-         inkscape:export-xdpi="135"
-         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="rect4891-9-7"
-         d="m 40.960556,72.970184 26.951938,0 12.339439,14.148651 -12.339439,14.102175 -26.951938,0 z"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
     <g
        transform="translate(145.21067,151.87141)"
        id="g3914-2-2"
