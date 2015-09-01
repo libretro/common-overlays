@@ -14,43 +14,12 @@
    id="svg9909"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="start.png"
+   inkscape:export-filename="start_genesis.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="start.svg">
   <defs
      id="defs9911">
-    <filter
-       id="filter10561"
-       inkscape:label="Drop Shadow"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         id="feFlood10563"
-         flood-opacity="0.7"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite10565"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur10567"
-         stdDeviation="0.8"
-         result="blur" />
-      <feOffset
-         id="feOffset10569"
-         dx="0"
-         dy="-2.41474e-15"
-         result="offset" />
-      <feComposite
-         id="feComposite10571"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
     <filter
        color-interpolation-filters="sRGB"
        id="filter10561-1"
@@ -83,40 +52,9 @@
          result="composite2" />
     </filter>
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter5096-3-0-0"
-       inkscape:label="Drop Shadow">
-      <feFlood
-         id="feFlood5098-8-4-4"
-         flood-opacity="0.2"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite5100-7-7-7"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur5102-0-8-6"
-         stdDeviation="0.5"
-         result="blur" />
-      <feOffset
-         id="feOffset5104-8-9-8"
-         dx="0"
-         dy="0"
-         result="offset" />
-      <feComposite
-         id="feComposite5106-2-5-3"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
-    <filter
        id="filter3872"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow">
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB;">
       <feFlood
          id="feFlood3874"
          flood-opacity="0.7"
@@ -130,9 +68,9 @@
          result="composite1" />
       <feGaussianBlur
          id="feGaussianBlur3878"
-         in="composite"
          stdDeviation="0.7"
-         result="blur" />
+         result="blur"
+         in="composite" />
       <feOffset
          id="feOffset3880"
          dx="0"
@@ -140,6 +78,37 @@
          result="offset" />
       <feComposite
          id="feComposite3882"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3872-3"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3874-0"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3876-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3878-9"
+         stdDeviation="0.7"
+         result="blur" />
+      <feOffset
+         id="feOffset3880-5"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3882-5"
          in2="offset"
          in="SourceGraphic"
          operator="over"
@@ -154,8 +123,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="25.1726"
-     inkscape:cy="48.445678"
+     inkscape:cx="62.092331"
+     inkscape:cy="41.462298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -180,7 +149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -203,12 +172,12 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.0137344,-1.0136948,1.0136945,1.0137347,-149.7761,949.68142)"
+       transform="matrix(1.0137344,-1.0136948,1.0136945,1.0137347,-149.77566,949.68142)"
        id="g3914-2-2-9-6"
        inkscape:export-filename="start_snes.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135"
-       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.67409671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter3872)">
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.6740967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872);enable-background:accumulate">
       <rect
          inkscape:export-ydpi="135"
          inkscape:export-xdpi="135"
@@ -218,7 +187,26 @@
          height="19.970411"
          width="52.862854"
          id="rect4948-4-6-5-6"
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.67409671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.6740967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         ry="9.9852057" />
+    </g>
+    <g
+       transform="matrix(1.4336089,2.8001429e-5,-2.8425693e-5,1.4336089,-152.88014,853.4377)"
+       id="g3914-2-2-9-6-0"
+       inkscape:export-filename="start_snes.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.6740967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3872-3);enable-background:accumulate">
+      <rect
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\gfx\rect.png"
+         y="114.53461"
+         x="34.285713"
+         height="19.970411"
+         width="52.862854"
+         id="rect4948-4-6-5-6-9"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1.6740967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          ry="9.9852057" />
     </g>
   </g>
