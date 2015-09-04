@@ -21,37 +21,6 @@
   <defs
      id="defs2987">
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter5084-9-3-7-4-48-3-1-2"
-       inkscape:label="Drop Shadow">
-      <feFlood
-         id="feFlood5086-3-9-6-3-7-9-6-5"
-         flood-opacity="0.2"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite5088-3-2-0-4-40-2-2-6"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur5090-6-7-2-3-8-3-3-1"
-         stdDeviation="0.5"
-         result="blur" />
-      <feOffset
-         id="feOffset5092-1-5-23-3-2-1-4-1"
-         dx="0"
-         dy="0"
-         result="offset" />
-      <feComposite
-         id="feComposite5094-5-49-2-8-9-6-5-4"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
-    <filter
        id="filter4912"
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow">
@@ -219,9 +188,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-5.6560009"
-     inkscape:cy="22.202688"
+     inkscape:zoom="2.8"
+     inkscape:cx="50.241275"
+     inkscape:cy="28.283815"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -246,7 +215,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -318,6 +287,6 @@
        sodipodi:linespacing="125%"
        transform="translate(0,958.36218)"><tspan
          sodipodi:role="line"
-         id="tspan3816"></tspan></text>
+         id="tspan3816" /></text>
   </g>
 </svg>
