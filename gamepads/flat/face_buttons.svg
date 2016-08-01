@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="face_buttons.svg"
-   inkscape:export-filename="L_face.png"
+   inkscape:export-filename="c_right.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1096,6 +1096,38 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter3290"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3292"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3294"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3296"
+         in="composite"
+         stdDeviation="1.4"
+         result="blur" />
+      <feOffset
+         id="feOffset3298"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3300"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1104,9 +1136,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="43.565926"
-     inkscape:cy="28.599989"
+     inkscape:zoom="1.4"
+     inkscape:cx="256.37271"
+     inkscape:cy="34.467438"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1148,19 +1180,6 @@
        inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/A.png"
        inkscape:export-xdpi="149"
        inkscape:export-ydpi="149" />
-    <g
-       transform="matrix(1.5352108,0,0,1.5352108,-47.156421,956.46638)"
-       id="g3918-1-7"
-       inkscape:export-xdpi="149.1125"
-       inkscape:export-ydpi="149.1125"
-       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z.png"
-       style="filter:url(#filter3086)">
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:1.30275272999999991;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 77.615937,36.408948 c 0,11.511848 -9.332198,20.844043 -20.844046,20.844043 -11.51185,0 -20.844047,-9.332195 -20.844047,-20.844043 0,-11.511847 9.332197,-20.844044 20.844047,-20.844044 11.511848,0 20.844046,9.332197 20.844046,20.844044 z"
-         id="path4099-7-3"
-         inkscape:connector-curvature="0" />
-    </g>
     <path
        inkscape:connector-curvature="0"
        id="path4459"
@@ -1430,7 +1449,7 @@
        inkscape:export-filename="L1.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135"
-       transform="matrix(1.2037234,0,0,1.2037234,-106.99037,-210.09311)" />
+       transform="matrix(1.2037234,0,0,1.2037234,193.00963,-210.09311)" />
     <path
        inkscape:connector-curvature="0"
        id="path3814-0-7-3"
@@ -1440,5 +1459,27 @@
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135"
        transform="matrix(1.2028388,0,0,1.2028388,218.40112,-209.68832)" />
+    <g
+       id="g3315"
+       transform="matrix(-1,0,0,-1,80.000808,2024.7236)">
+      <g
+         style="filter:url(#filter3086)"
+         inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z.png"
+         inkscape:export-ydpi="149.1125"
+         inkscape:export-xdpi="149.1125"
+         id="g3918-1-7"
+         transform="matrix(1.5352108,0,0,1.5352108,-47.156421,956.46638)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4099-7-3"
+           d="m 77.615937,36.408948 c 0,11.511848 -9.332198,20.844043 -20.844046,20.844043 -11.51185,0 -20.844047,-9.332195 -20.844047,-20.844043 0,-11.511847 9.332197,-20.844044 20.844047,-20.844044 11.511848,0 20.844046,9.332197 20.844046,20.844044 z"
+           style="fill:none;stroke:#ffffff;stroke-width:1.30275273;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3003"
+         d="m 40,1028.3025 -15,-22.8571 30,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3290)" />
+    </g>
   </g>
 </svg>

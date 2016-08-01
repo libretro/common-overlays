@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="shoulder_down_buttons.svg"
-   inkscape:export-filename="L_down_smaller_gba.png"
+   inkscape:export-filename="Z_down_smaller.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -237,6 +237,68 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter4924-3"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4926-6"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4928-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4930-5"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4932-3"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite4934-5"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3153"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3155"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3157"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3159"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3161"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3163"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -246,8 +308,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5638298"
-     inkscape:cx="69.779528"
-     inkscape:cy="11.427581"
+     inkscape:cx="45.058658"
+     inkscape:cy="66.082087"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -272,7 +334,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -323,7 +385,7 @@
        inkscape:connector-curvature="0"
        id="path3816-4-2-8"
        style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3818);font-family:Sans"
-       d="m 21.999708,983.36209 4.058938,0 0,26.58401 14.608139,0 0,3.4161 -18.667077,0 0,-30.00011"
+       d="m 21.999708,883.36206 4.058938,0 0,26.58401 14.608139,0 0,3.4161 -18.667077,0 0,-30.00011"
        inkscape:export-filename="L1_down_smaller.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135" />
@@ -376,5 +438,21 @@
          id="path3816-4-2-8-7"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3814-0-6-6"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4924-3);font-family:Sans"
+       d="m 35.235325,899.29644 c 0.872771,0.2947 1.7187,0.92433 2.537789,1.88883 0.832479,0.9645 1.664973,2.2907 2.497497,3.9786 l 4.12894,8.1983 -4.37063,0 -3.84696,-7.696 c -0.993645,-2.0093 -1.960419,-3.3422 -2.900323,-3.9986 -0.926498,-0.6564 -2.195392,-0.9846 -3.806668,-0.9846 l -4.431046,0 0,12.6792 -4.06851,0 0,-30.00009 9.184349,0 c 3.437401,3e-5 6.002045,0.71671 7.693919,2.15003 1.691829,1.43338 2.537759,3.59681 2.537773,6.49029 -1.4e-5,1.88883 -0.443117,3.45614 -1.329309,4.70194 -0.8728,1.2458 -2.148412,2.1099 -3.826821,2.5921 m -10.191401,-12.5988 0,10.6497 5.115839,0 c 1.96039,0 3.437401,-0.4487 4.431046,-1.3463 1.007051,-0.9109 1.510569,-2.24376 1.510584,-3.99864 -1.5e-5,-1.75483 -0.503533,-3.07432 -1.510584,-3.95847 -0.993645,-0.8975 -2.470656,-1.34626 -4.431046,-1.34629 l -5.115839,0"
+       inkscape:export-filename="R3_smaller.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4467"
+       style="font-size:27px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3153);font-family:Sans"
+       d="m 19.511576,983.36219 23.569971,0 0,3.09433 -18.968488,23.48978 19.430637,0 0,3.4159 -24.494269,0 0,-3.0945 18.968488,-23.48961 -18.506339,0 0,-3.41591"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z_.png"
+       inkscape:export-xdpi="135.57048"
+       inkscape:export-ydpi="135.57048" />
   </g>
 </svg>

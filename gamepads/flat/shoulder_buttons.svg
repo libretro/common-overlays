@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="shoulder_buttons.svg"
-   inkscape:export-filename="R_down.png"
+   inkscape:export-filename="Z_down.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -558,6 +558,38 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter3153"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3155"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3157"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3159"
+         in="composite"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3161"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3163"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -567,15 +599,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="38.268378"
-     inkscape:cy="58.144657"
+     inkscape:cx="73.122955"
+     inkscape:cy="18.106946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1600"
-     inkscape:window-height="851"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -765,9 +797,27 @@
        inkscape:connector-curvature="0"
        id="path3814-0-7-3"
        style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter10528-7);font-family:Sans"
-       d="m 54.22627,996.2966 c 0.870722,0.2946 1.714668,0.9243 2.531821,1.8888 0.830521,0.9645 1.661051,2.2906 2.49162,3.9786 l 4.119231,8.1982 -4.360347,0 -3.837916,-7.696 c -0.991303,-2.0093 -1.955812,-3.3423 -2.893499,-3.9986 -0.924318,-0.6564 -2.190227,-0.9847 -3.797713,-0.9847 l -4.420623,0 0,12.6793 -4.05894,0 0,-30 9.162746,0 c 3.429315,0 5.987929,0.7167 7.675821,2.15 1.687847,1.4334 2.531784,3.5968 2.531802,6.4903 -1.8e-5,1.8888 -0.442078,3.4562 -1.326177,4.702 -0.87075,1.2457 -2.143367,2.1097 -3.817826,2.5921 m -10.167426,-12.5989 0,10.6497 5.103806,0 c 1.955781,0 3.429315,-0.4487 4.420627,-1.3462 1.004681,-0.9109 1.507011,-2.2439 1.507031,-3.9987 -2e-5,-1.7549 -0.50235,-3.0744 -1.507031,-3.9585 -0.991312,-0.8975 -2.464846,-1.3463 -4.420627,-1.3463 l -5.103806,0"
+       d="m 154.22627,996.2966 c 0.87072,0.2946 1.71467,0.9243 2.53182,1.8888 0.83052,0.9645 1.66105,2.2906 2.49162,3.9786 l 4.11923,8.1982 -4.36035,0 -3.83791,-7.696 c -0.9913,-2.0093 -1.95581,-3.3423 -2.8935,-3.9986 -0.92432,-0.6564 -2.19023,-0.9847 -3.79771,-0.9847 l -4.42063,0 0,12.6793 -4.05894,0 0,-30 9.16275,0 c 3.42931,0 5.98793,0.7167 7.67582,2.15 1.68785,1.4334 2.53178,3.5968 2.5318,6.4903 -2e-5,1.8888 -0.44208,3.4562 -1.32617,4.702 -0.87075,1.2457 -2.14337,2.1097 -3.81783,2.5921 m -10.16743,-12.5989 0,10.6497 5.10381,0 c 1.95578,0 3.42931,-0.4487 4.42063,-1.3462 1.00468,-0.9109 1.50701,-2.2439 1.50703,-3.9987 -2e-5,-1.7549 -0.50235,-3.0744 -1.50703,-3.9585 -0.99132,-0.8975 -2.46485,-1.3463 -4.42063,-1.3463 l -5.10381,0"
        inkscape:export-filename="R2.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="185.96909"
+       y="29.289322"
+       id="text3106"
+       sodipodi:linespacing="125%"
+       transform="translate(0,952.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3108"></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4467"
+       style="font-size:27px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3153);font-family:Sans"
+       d="m 38.462576,980.36221 23.569971,0 0,3.09433 -18.968488,23.48976 19.430637,0 0,3.4159 -24.494269,0 0,-3.0945 18.968488,-23.48959 -18.506339,0 0,-3.41591"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z_.png"
+       inkscape:export-xdpi="135.57048"
+       inkscape:export-ydpi="135.57048" />
   </g>
 </svg>
