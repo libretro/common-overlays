@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="shoulder_buttons.svg"
-   inkscape:export-filename="Z_down.png"
+   inkscape:export-filename="C_pokemini.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -590,6 +590,69 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter8444-3"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood8446-6"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite8448-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8450-5"
+         stdDeviation="1.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8452-3"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite8454-5"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3201"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3203"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3205"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3207"
+         in="composite"
+         stdDeviation="1.4"
+         result="blur" />
+      <feOffset
+         id="feOffset3209"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3211"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -598,9 +661,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="73.122955"
-     inkscape:cy="18.106946"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-16.893304"
+     inkscape:cy="56.058484"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -810,14 +873,22 @@
        sodipodi:linespacing="125%"
        transform="translate(0,952.36218)"><tspan
          sodipodi:role="line"
-         id="tspan3108"></tspan></text>
+         id="tspan3108" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path4467"
        style="font-size:27px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3153);font-family:Sans"
-       d="m 38.462576,980.36221 23.569971,0 0,3.09433 -18.968488,23.48976 19.430637,0 0,3.4159 -24.494269,0 0,-3.0945 18.968488,-23.48959 -18.506339,0 0,-3.41591"
+       d="m -32.639424,980.36221 23.5699709,0 0,3.09433 -18.9684879,23.48976 19.4306369,0 0,3.4159 -24.4942689,0 0,-3.0945 18.968488,-23.48959 -18.506339,0 0,-3.41591"
        inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z_.png"
        inkscape:export-xdpi="135.57048"
        inkscape:export-ydpi="135.57048" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4461"
+       style="font-size:27px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3201);font-family:Sans"
+       d="m 55.13936,990.11228 0,4.1253 c -1.307565,-1.2266 -2.704847,-2.1433 -4.191828,-2.7503 -1.474223,-0.6067 -3.044554,-0.9101 -4.71101,-0.9102 -3.281704,10e-5 -5.794242,1.0137 -7.537623,3.0407 -1.743398,2.0143 -2.615105,4.9323 -2.615088,8.75402 -1.7e-5,3.8089 0.87169,6.727 2.615088,8.7541 1.743381,2.0142 4.255919,3.0213 7.537623,3.0213 1.666456,0 3.236787,-0.3034 4.71101,-0.9102 1.486981,-0.6069 2.884263,-1.5236 4.191828,-2.7502 l 0,4.0865 c -1.358849,0.9296 -2.800997,1.6269 -4.326436,2.0917 -1.512656,0.4648 -3.115046,0.6972 -4.807143,0.6972 -4.345678,0 -7.768356,-1.3363 -10.268095,-4.009 -2.499721,-2.6856 -3.749561,-6.3461 -3.749561,-10.9814 0,-4.64812 1.249857,-8.30862 3.749561,-10.98122 2.499739,-2.6857 5.922417,-4.0284 10.268095,-4.0284 1.717739,0 3.332937,0.2323 4.845618,0.6972 1.525439,0.4519 2.954771,1.1361 4.287977,2.0529"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/C.png"
+       inkscape:export-xdpi="149"
+       inkscape:export-ydpi="149" />
   </g>
 </svg>
