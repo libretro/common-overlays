@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="shoulder_small_buttons.svg"
-   inkscape:export-filename="R_smaller.png"
+   inkscape:export-filename="C_pokemini_smaller.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -334,6 +334,37 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3201"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3203"
+         flood-opacity="0.7"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3205"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3207"
+         stdDeviation="1.4"
+         result="blur" />
+      <feOffset
+         id="feOffset3209"
+         dx="0"
+         dy="-2.41474e-15"
+         result="offset" />
+      <feComposite
+         id="feComposite3211"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -342,9 +373,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="73.622717"
-     inkscape:cy="11.922041"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="54.53222"
+     inkscape:cy="28.864692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -454,9 +485,17 @@
        inkscape:connector-curvature="0"
        id="path3814-0-7-3"
        style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter10528-7);font-family:Sans"
-       d="m 42.22627,1024.2966 c 0.870722,0.2946 1.714668,0.9243 2.531821,1.8888 0.830521,0.9645 1.661051,2.2906 2.49162,3.9786 l 4.119231,8.1982 -4.360347,0 -3.837916,-7.696 c -0.991303,-2.0093 -1.955812,-3.3423 -2.893499,-3.9986 -0.924318,-0.6564 -2.190227,-0.9847 -3.797713,-0.9847 l -4.420623,0 0,12.6793 -4.05894,0 0,-30 9.162746,0 c 3.429315,0 5.987929,0.7167 7.675821,2.15 1.687847,1.4334 2.531784,3.5968 2.531802,6.4903 -1.8e-5,1.8888 -0.442078,3.4562 -1.326177,4.702 -0.87075,1.2457 -2.143367,2.1097 -3.817826,2.5921 m -10.167426,-12.5989 0,10.6497 5.103806,0 c 1.955781,0 3.429315,-0.4487 4.420627,-1.3462 1.004681,-0.9109 1.507011,-2.2439 1.507031,-3.9987 -2e-5,-1.7549 -0.50235,-3.0744 -1.507031,-3.9585 -0.991312,-0.8975 -2.464846,-1.3463 -4.420627,-1.3463 l -5.103806,0"
+       d="m 142.22627,1024.2966 c 0.87072,0.2946 1.71467,0.9243 2.53182,1.8888 0.83052,0.9645 1.66105,2.2906 2.49162,3.9786 l 4.11923,8.1982 -4.36035,0 -3.83791,-7.696 c -0.9913,-2.0093 -1.95581,-3.3423 -2.8935,-3.9986 -0.92432,-0.6564 -2.19023,-0.9847 -3.79771,-0.9847 l -4.42063,0 0,12.6793 -4.05894,0 0,-30 9.16275,0 c 3.42931,0 5.98793,0.7167 7.67582,2.15 1.68785,1.4334 2.53178,3.5968 2.5318,6.4903 -2e-5,1.8888 -0.44208,3.4562 -1.32617,4.702 -0.87075,1.2457 -2.14337,2.1097 -3.81783,2.5921 m -10.16743,-12.5989 0,10.6497 5.10381,0 c 1.95578,0 3.42931,-0.4487 4.42063,-1.3462 1.00468,-0.9109 1.50701,-2.2439 1.50703,-3.9987 -2e-5,-1.7549 -0.50235,-3.0744 -1.50703,-3.9585 -0.99132,-0.8975 -2.46485,-1.3463 -4.42063,-1.3463 l -5.10381,0"
        inkscape:export-filename="R2.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4461"
+       style="font-size:27px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3201);font-family:Sans"
+       d="m 51.13936,1011.1123 0,4.1253 c -1.307565,-1.2266 -2.704847,-2.1433 -4.191828,-2.7503 -1.474223,-0.6067 -3.044554,-0.9101 -4.71101,-0.9102 -3.281704,10e-5 -5.794242,1.0137 -7.537623,3.0407 -1.743398,2.0143 -2.615105,4.9323 -2.615088,8.754 -1.7e-5,3.8089 0.87169,6.727 2.615088,8.7541 1.743381,2.0142 4.255919,3.0213 7.537623,3.0213 1.666456,0 3.236787,-0.3034 4.71101,-0.9102 1.486981,-0.6069 2.884263,-1.5236 4.191828,-2.7502 l 0,4.0865 c -1.358849,0.9296 -2.800997,1.6269 -4.326436,2.0917 -1.512656,0.4648 -3.115046,0.6972 -4.807143,0.6972 -4.345678,0 -7.768356,-1.3363 -10.268095,-4.009 -2.499721,-2.6856 -3.749561,-6.3461 -3.749561,-10.9814 0,-4.6481 1.249857,-8.3086 3.749561,-10.9812 2.499739,-2.6857 5.922417,-4.0284 10.268095,-4.0284 1.717739,0 3.332937,0.2323 4.845618,0.6972 1.525439,0.4519 2.954771,1.1361 4.287977,2.0529"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/C.png"
+       inkscape:export-xdpi="149"
+       inkscape:export-ydpi="149" />
   </g>
 </svg>
