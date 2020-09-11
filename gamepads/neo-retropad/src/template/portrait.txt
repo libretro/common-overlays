@@ -1,0 +1,41 @@
+1046	1860
+
+dpad_down.png					down						radial	112.000	158.000	170.000	510.000
+dpad_left.png					left						radial	158.000	112.000	56.000	624.000
+dpad_right.png					right						radial	158.000	112.000	238.000	624.000
+dpad_up.png						up							radial	112.000	158.000	170.000	692.000
+
+down_left						down|left				rect		80.000	80.000	70.000	524.000
+down_right						down|right				rect		80.000	80.000	306.000	524.000
+up_left							up|left					rect		80.000	80.000	70.000	760.000
+up_right							up|right					rect		80.000	80.000	306.000	760.000
+deadzone							nul						radial	72.000	72.000	190.000	644.000
+
+button_a.png					a							radial	128.000	128.000	862.000	616.000
+button_b.png					b							radial	128.000	128.000	756.000	510.000
+button_x.png					x							radial	128.000	128.000	756.000	722.000
+button_y.png					y							radial	128.000	128.000	650.000	616.000
+
+button_select.png				select					rect		112.000	80.000	363.000	366.000
+button_start.png				start						rect		112.000	80.000	571.000	366.000
+
+button_l1.png					l							rect		112.000	96.000	16.000	350.000
+button_l2.png					l2							rect		112.000	96.000	160.000	254.000
+button_l3.png					l3							rect		112.000	96.000	304.000	158.000
+button_r1.png					r							rect		112.000	96.000	918.000	350.000
+button_r2.png					r2							rect		112.000	96.000	774.000	254.000
+button_r3.png					r3							rect		112.000	96.000	630.000	158.000
+
+hotkey_analog.png				overlay_next			radial	80.000	80.000	16.000	158.000
+hotkey_fast_forward.png		toggle_fast_forward	radial	80.000	80.000	950.000	158.000
+hotkey_hide.png				overlay_next			radial	80.000	80.000	950.000	16.000
+hotkey_menu.png				menu_toggle				radial	80.000	80.000	523.000	770.000
+
+rotate							overlay_next			radial	80.000	80.000	483.000	1774.000
+
+analog_bg.png					nul						radial	324.000	324.000	64.000	518.000
+analog_stick.png				analog_left				radial	188.000	188.000	132.000	586.000
+
+hotkey_digital.png			overlay_next			radial	80.000	80.000	16.000	158.000
+
+hotkey_show.png				overlay_next			radial	80.000	80.000	950.000	16.000
