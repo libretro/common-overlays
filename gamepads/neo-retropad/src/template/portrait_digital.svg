@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57147479"
-     inkscape:cx="405.69019"
-     inkscape:cy="534.41038"
+     inkscape:zoom="0.67559415"
+     inkscape:cx="308.35227"
+     inkscape:cy="652.82467"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -208,77 +208,6 @@
        height="25.4"
        width="29.633333" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-9"
-       width="21.166666"
-       height="21.166666"
-       x="18.520828"
-       y="54.504158" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-5-1"
-       width="21.166666"
-       height="21.166666"
-       x="80.962494"
-       y="54.504158" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-3-2"
-       width="21.166666"
-       height="21.166666"
-       x="18.520828"
-       y="116.94584" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-56-7"
-       width="21.166666"
-       height="21.166666"
-       x="80.962494"
-       y="116.94584" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
-       y="100.0125"
-       x="44.979156"
-       id="image1711"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
-       preserveAspectRatio="none"
-       height="41.804165"
-       width="29.633333" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
-       y="82.020836"
-       x="14.816666"
-       id="image1722"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="41.804165" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
-       y="82.020836"
-       x="62.97084"
-       id="image1733"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="41.804165" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
-       y="51.858315"
-       x="44.979156"
-       id="image1744"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
-       preserveAspectRatio="none"
-       height="41.804165"
-       width="29.633333" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.29419267;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-36"
-       width="19.049999"
-       height="19.049999"
-       x="50.270844"
-       y="87.312492" />
-    <rect
        style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799198;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7458-367"
        width="21.166666"
@@ -339,5 +268,99 @@
        preserveAspectRatio="none"
        height="21.166666"
        width="29.633333" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
+       y="100.0125"
+       x="42.862499"
+       id="image1050"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
+       preserveAspectRatio="none"
+       height="41.804165"
+       width="33.866665" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-3-6"
+       width="20.902082"
+       height="33.866665"
+       x="120.91459"
+       y="-76.729172"
+       transform="rotate(90)" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
+       y="79.904175"
+       x="14.816667"
+       id="image1061"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
+       preserveAspectRatio="none"
+       height="33.866665"
+       width="41.804165" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
+       y="79.904175"
+       x="62.97084"
+       id="image1072"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
+       preserveAspectRatio="none"
+       height="33.866665"
+       width="41.804165" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
+       y="51.858322"
+       x="42.862503"
+       id="image1083"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
+       preserveAspectRatio="none"
+       height="41.804165"
+       width="33.866665" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088"
+       width="20.902082"
+       height="33.866665"
+       x="14.816667"
+       y="79.904175" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-3"
+       width="20.902082"
+       height="33.866665"
+       x="51.858337"
+       y="-76.729172"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-7"
+       width="20.902082"
+       height="33.866665"
+       x="83.872925"
+       y="79.904175" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458"
+       width="23.8125"
+       height="23.8125"
+       x="14.816667"
+       y="51.858337" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-5"
+       width="23.8125"
+       height="23.8125"
+       x="80.962502"
+       y="51.858337" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-3"
+       width="23.8125"
+       height="23.8125"
+       x="14.816667"
+       y="118.00416" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-56"
+       width="23.8125"
+       height="23.8125"
+       x="80.962502"
+       y="118.00416" />
   </g>
 </svg>
