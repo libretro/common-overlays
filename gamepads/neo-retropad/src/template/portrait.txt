@@ -1,15 +1,19 @@
 1046	1860
 
-dpad_down.png					down						radial	112.000	158.000	170.000	510.000
-dpad_left.png					left						radial	158.000	112.000	56.000	624.000
-dpad_right.png					right						radial	158.000	112.000	238.000	624.000
-dpad_up.png						up							radial	112.000	158.000	170.000	692.000
+dpad_down.png					down						radial	128.000	158.000	162.000	510.000
+dpad_left.png					left						radial	158.000	128.000	56.000	616.000
+dpad_right.png					right						radial	158.000	128.000	238.000	616.000
+dpad_up.png						up							radial	128.000	158.000	162.000	692.000
 
-down_left						down|left				rect		80.000	80.000	70.000	524.000
-down_right						down|right				rect		80.000	80.000	306.000	524.000
-up_left							up|left					rect		80.000	80.000	70.000	760.000
-up_right							up|right					rect		80.000	80.000	306.000	760.000
-deadzone							nul						radial	72.000	72.000	190.000	644.000
+down_aux							down						rect		128.000	79.000	162.000	510.000
+left_aux							left						rect		79.000	128.000	56.000	616.000
+right_aux						right						rect		79.000	128.000	317.000	616.000
+up_aux							up							rect		128.000	79.000	162.000	771.000
+
+down_left						down|left				rect		90.000	90.000	56.000	510.000
+down_right						down|right				rect		90.000	90.000	306.000	510.000
+up_left							up|left					rect		90.000	90.000	56.000	760.000
+up_right							up|right					rect		90.000	90.000	306.000	760.000
 
 button_a.png					a							radial	128.000	128.000	862.000	616.000
 button_b.png					b							radial	128.000	128.000	756.000	510.000

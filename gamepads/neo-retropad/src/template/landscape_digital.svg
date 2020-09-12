@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4777172"
-     inkscape:cx="782.60351"
-     inkscape:cy="479.90743"
+     inkscape:zoom="1.3511883"
+     inkscape:cx="286.78105"
+     inkscape:cy="411.87555"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="85,560"
      inkscape:measure-end="130,560"
@@ -106,6 +106,72 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="buttons">
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
+       y="157.16251"
+       x="29.633331"
+       id="image1050"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
+       preserveAspectRatio="none"
+       height="41.804165"
+       width="33.866665" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-3-6"
+       width="20.902082"
+       height="33.866665"
+       x="178.06459"
+       y="-63.5"
+       transform="rotate(90)" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
+       y="137.05417"
+       x="1.5875"
+       id="image1061"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
+       preserveAspectRatio="none"
+       height="33.866665"
+       width="41.804165" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
+       y="137.05417"
+       x="49.741669"
+       id="image1072"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
+       preserveAspectRatio="none"
+       height="33.866665"
+       width="41.804165" />
+    <image
+       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
+       y="109.00832"
+       x="29.633333"
+       id="image1083"
+       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
+       preserveAspectRatio="none"
+       height="41.804165"
+       width="33.866665" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088"
+       width="20.902082"
+       height="33.866665"
+       x="1.5875"
+       y="137.05417" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-3"
+       width="20.902082"
+       height="33.866665"
+       x="109.00833"
+       y="-63.5"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0.50196078;stroke:none;stroke-width:2.30415511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1088-7"
+       width="20.902082"
+       height="33.866665"
+       x="70.643753"
+       y="137.05417" />
     <image
        sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/hotkey_analog.png"
        y="254"
@@ -233,69 +299,33 @@
        height="33.866665"
        width="33.866665" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7458"
-       width="21.166666"
-       height="21.166666"
-       x="5.2916665"
-       y="111.65417" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-5"
-       width="21.166666"
-       height="21.166666"
-       x="67.73333"
-       y="111.65417" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-3"
-       width="21.166666"
-       height="21.166666"
-       x="5.2916665"
-       y="174.09584" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-56"
-       width="21.166666"
-       height="21.166666"
-       x="67.73333"
-       y="174.09584" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
-       y="157.16251"
-       x="31.749998"
-       id="image1711"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_down.png"
-       preserveAspectRatio="none"
-       height="41.804165"
-       width="29.633333" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
-       y="139.17084"
+       width="23.8125"
+       height="23.8125"
        x="1.5875"
-       id="image1722"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_left.png"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="41.804165" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
-       y="139.17084"
-       x="49.741669"
-       id="image1733"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_right.png"
-       preserveAspectRatio="none"
-       height="29.633333"
-       width="41.804165" />
-    <image
-       sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
-       y="109.00832"
-       x="31.749998"
-       id="image1744"
-       xlink:href="file:///home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/dpad_up.png"
-       preserveAspectRatio="none"
-       height="41.804165"
-       width="29.633333" />
+       y="109.00833" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-5"
+       width="23.8125"
+       height="23.8125"
+       x="67.73333"
+       y="109.00833" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-3"
+       width="23.8125"
+       height="23.8125"
+       x="1.5875"
+       y="175.15416" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.61774087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7458-56"
+       width="23.8125"
+       height="23.8125"
+       x="67.73333"
+       y="175.15416" />
     <image
        sodipodi:absref="/home/james/Dev/github/libretro/common-overlays/gamepads/neo-retropad/png/default/button_select.png"
        y="215.89999"
@@ -314,13 +344,6 @@
        preserveAspectRatio="none"
        height="21.166666"
        width="29.633333" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.29419267;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7458-36"
-       width="19.049999"
-       height="19.049999"
-       x="37.041668"
-       y="144.46249" />
     <rect
        style="opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:0.50196078;stroke:none;stroke-width:1.43799198;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7458-367"
