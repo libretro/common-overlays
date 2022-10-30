@@ -1,0 +1,4 @@
+font: Space Marine
+version: 1.0
+author: zephram
+license: Creative Commons CC0 Public Domain Dedication
