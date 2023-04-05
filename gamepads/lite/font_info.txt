@@ -1,4 +1,4 @@
-font: Space Marine
-version: 1.0
-author: zephram
-license: Creative Commons CC0 Public Domain Dedication
+font: Nulshock Rg-Bold
+version: 1.101
+author: Ray Larabie
+license: https://typodermicfonts.com/end-user-license-agreement/
