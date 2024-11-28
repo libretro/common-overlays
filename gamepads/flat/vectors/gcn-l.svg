@@ -31,13 +31,13 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.2070312"
-     inkscape:cx="185.84166"
-     inkscape:cy="148.26797"
-     inkscape:window-width="1920"
-     inkscape:window-height="990"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
+     inkscape:cx="104.45798"
+     inkscape:cy="148.73569"
+     inkscape:window-width="1452"
+     inkscape:window-height="989"
+     inkscape:window-x="568"
+     inkscape:window-y="233"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -92,6 +92,75 @@
          id="feGaussianBlur4171"
          stdDeviation="1.5625" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter16549"
+       x="-0.021799308"
+       y="-0.01875"
+       width="1.0435986"
+       height="0.54791667">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood16539" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite16541" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur16543" />
+      <feOffset
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset"
+         id="feOffset16545" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite16547" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix16551" />
+      <feFlood
+         id="feFlood16553"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite16555"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur16557"
+         in="composite1"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset16559"
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite16561"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -105,34 +174,38 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4239">
+     id="g16537"
+     style="filter:url(#filter16549)">
     <g
-       id="g4183"
-       clip-path="url(#clipPath4187)"
-       style="fill:none;stroke:#e7e7e7;stroke-opacity:1;stroke-width:3;stroke-dasharray:none">
-      <ellipse
-         id="path3363"
-         cx="155.5"
-         cy="224"
-         rx="144.5"
-         ry="168"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e7e7;stroke-opacity:1;stroke-width:3;stroke-dasharray:none" />
-      <ellipse
-         id="ellipse4167"
-         clip-path="url(#clipPath4175)"
-         cx="155.5"
-         cy="224"
-         rx="144.5"
-         ry="168"
-         style="opacity:1;fill:none;stroke:#e7e7e7;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4169)" />
+       id="g4239">
+      <g
+         id="g4183"
+         clip-path="url(#clipPath4187)"
+         style="fill:none;stroke:#e7e7e7;stroke-opacity:1;stroke-width:3;stroke-dasharray:none">
+        <ellipse
+           id="path3363"
+           cx="155.5"
+           cy="224"
+           rx="144.5"
+           ry="168"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e7e7;stroke-opacity:1;stroke-width:3;stroke-dasharray:none" />
+        <ellipse
+           id="ellipse4167"
+           clip-path="url(#clipPath4175)"
+           cx="155.5"
+           cy="224"
+           rx="144.5"
+           ry="168"
+           style="opacity:1;fill:none;stroke:#e7e7e7;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4169)" />
+      </g>
+      <path
+         id="rect4229"
+         style="opacity:1;fill:#e7e7e7;fill-opacity:1;stroke:none"
+         d="m 110,74 0,55 25,0 0,-12 -13,0 0,-43 z" />
     </g>
     <path
-       id="rect4229"
-       style="opacity:1;fill:#e7e7e7;fill-opacity:1;stroke:none"
-       d="m 110,74 0,55 25,0 0,-12 -13,0 0,-43 z" />
+       style="fill:none;stroke:#e9e9e9;stroke-width:2.98851;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 247.00624,92.257894 13.424599,194.76057"
+       id="path6305" />
   </g>
-  <path
-     style="fill:none;stroke:#e9e9e9;stroke-width:2.98851;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-     d="M 247.00624,92.257894 13.424599,194.76057"
-     id="path6305" />
 </svg>
