@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="553mm"
+   height="553mm"
+   viewBox="0 0 553 553"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="joystick.svg"
+   inkscape:export-batch-path="C:\Users\Sourov\Documents\new-gba"
+   inkscape:export-batch-name="joystick"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.26362494"
+     inkscape:cx="724.51414"
+     inkscape:cy="1363.6798"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="outer_circle"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="fill:#ececec">
+    <path
+       id="path1"
+       style="fill:#ececec;stroke-width:0.455514"
+       d="M 276.49992 0.99993896 A 275.5 275.5 0 0 0 0.99993896 276.49992 A 275.5 275.5 0 0 0 276.49992 551.9999 A 275.5 275.5 0 0 0 551.9999 276.49992 A 275.5 275.5 0 0 0 276.49992 0.99993896 z M 276.49992 8.5002563 A 268 268 0 0 1 544.5001 276.49992 A 268 268 0 0 1 276.49992 544.5001 A 268 268 0 0 1 8.5002563 276.49992 A 268 268 0 0 1 276.49992 8.5002563 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="stick">
+    <circle
+       style="fill:#ececec;stroke-width:0.340893"
+       id="path2"
+       cx="276.5"
+       cy="276.5"
+       r="150" />
+    <path
+       id="path3"
+       style="display:inline;fill:#ececec;stroke-width:0.455514;opacity:0"
+       d="M 276.49992,0.99993896 A 275.5,275.5 0 0 0 0.99993896,276.49992 275.5,275.5 0 0 0 276.49992,551.9999 275.5,275.5 0 0 0 551.9999,276.49992 275.5,275.5 0 0 0 276.49992,0.99993896 Z m 0,7.50031734 A 268,268 0 0 1 544.5001,276.49992 268,268 0 0 1 276.49992,544.5001 268,268 0 0 1 8.5002563,276.49992 268,268 0 0 1 276.49992,8.5002563 Z" />
+  </g>
+</svg>
