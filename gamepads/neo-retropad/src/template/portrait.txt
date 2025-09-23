@@ -33,7 +33,7 @@ button_r3.png					r3							rect		112.000	96.000	630.000	158.000
 hotkey_analog.png				overlay_next			radial	80.000	80.000	16.000	158.000
 hotkey_fast_forward.png		toggle_fast_forward	radial	80.000	80.000	950.000	158.000
 hotkey_hide.png				overlay_next			radial	80.000	80.000	950.000	16.000
-hotkey_menu.png				menu_toggle				radial	80.000	80.000	523.000	770.000
+hotkey_menu.png				menu_toggle				radial	80.000	80.000	483.000	770.000
 
 rotate							overlay_next			radial	80.000	80.000	483.000	1774.000
 
