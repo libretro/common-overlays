@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="3d-rotate.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1583"
+       x="-0.061423053"
+       y="-0.060673468"
+       width="1.1228461"
+       height="1.1213469">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1573" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1575" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur1577" />
+      <feOffset
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset"
+         id="feOffset1579" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite2"
+         id="feComposite1581" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter5060-1"
+       inkscape:label="Drop Shadow"
+       x="-0.054717241"
+       y="-0.055144069"
+       width="1.1094345"
+       height="1.1102881">
+      <feFlood
+         id="feFlood5062-7"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5064-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5066-7"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5068-9"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite5070-7"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter5060-1-2"
+       inkscape:label="Drop Shadow"
+       x="-0.054717241"
+       y="-0.055144069"
+       width="1.1094345"
+       height="1.1102881">
+      <feFlood
+         id="feFlood5062-7-6"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5064-2-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5066-7-8"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5068-9-7"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite5070-7-9"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter5060-1-23"
+       inkscape:label="Drop Shadow"
+       x="-0.054717241"
+       y="-0.055144069"
+       width="1.1094345"
+       height="1.1102881">
+      <feFlood
+         id="feFlood5062-7-7"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5064-2-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5066-7-9"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5068-9-2"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite5070-7-2"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.69384853"
+     inkscape:cx="404.98753"
+     inkscape:cy="412.91433"
+     inkscape:window-width="1452"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <g
+     id="g6438"
+     inkscape:export-filename="../dev/hunterk/common-overlays/gamepads/flat/img/3d_rotate.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
+    <g
+       id="g4577">
+      <g
+         id="g1025-3"
+         style="stroke:#ffffff;stroke-opacity:1">
+        <path
+           d="M 6.70001,9.26001 12,12.33 17.26,9.28001"
+           stroke="#292D32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2-5"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 6.70001,15.14001 12,18.21 17.26,15.16001"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2-3-62"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 6.70001,9.209994 12,6.140004 l 5.26,3.04999"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2-3-6-9"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 12,17.7701 v -5.45"
+           stroke="#292D32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4-1"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 6.66,14.8901 v -5.45"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4-7-2"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 17.28,14.8901 v -5.45"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4-5-7"
+           style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g913-0"
+           transform="translate(1.0531051,2.2945461)"
+           style="stroke:#ffffff;stroke-opacity:1">
+          <path
+             d="M 2,9 C 2,5.13 5.13,2 9,2 L 7.95001,3.75"
+             stroke="#292d32"
+             stroke-width="1.5"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path10-9"
+             style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.711;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             d="M 8.9718153,1.9746019 7.25625,0.99972135"
+             id="path907-3" />
+        </g>
+        <g
+           id="g917-6"
+           transform="translate(-1.4371816,-2.1672373)"
+           style="stroke:#ffffff;stroke-opacity:1">
+          <path
+             d="m 22,15 c 0,3.87 -3.13,7 -7,7 l 1.05,-1.75"
+             stroke="#292d32"
+             stroke-width="1.5"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path8-0"
+             style="stroke:#ffffff;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.711;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             d="m 15.056608,22.125597 1.580613,1.061943"
+             id="path909-6" />
+        </g>
+      </g>
+      <g
+         id="g1025"
+         style="filter:url(#filter1583)">
+        <path
+           d="M6.70001 9.26001L12 12.33L17.26 9.28001"
+           stroke="#292D32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <path
+           d="M 6.70001,15.14001 12,18.21 17.26,15.16001"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2-3"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <path
+           d="M 6.70001,9.209994 12,6.140004 l 5.26,3.04999"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path2-3-6"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <path
+           d="M12 17.7701V12.3201"
+           stroke="#292D32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <path
+           d="m 6.66,14.8901 v -5.45"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4-7"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <path
+           d="m 17.28,14.8901 v -5.45"
+           stroke="#292d32"
+           stroke-width="1.5"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path4-5"
+           style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+        <g
+           id="g913"
+           transform="translate(1.0531051,2.2945461)"
+           style="stroke:#292d32;stroke-opacity:1">
+          <path
+             d="M 2,9 C 2,5.13 5.13,2 9,2 L 7.95001,3.75"
+             stroke="#292d32"
+             stroke-width="1.5"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path10"
+             style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#292d32;stroke-width:0.711;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             d="M 8.9718153,1.9746019 7.25625,0.99972135"
+             id="path907" />
+        </g>
+        <g
+           id="g917"
+           transform="translate(-1.4371816,-2.1672373)"
+           style="stroke:#292d32;stroke-opacity:1">
+          <path
+             d="m 22,15 c 0,3.87 -3.13,7 -7,7 l 1.05,-1.75"
+             stroke="#292d32"
+             stroke-width="1.5"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path8"
+             style="stroke-width:0.711;stroke-dasharray:none;stroke:#292d32;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#292d32;stroke-width:0.711;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             d="m 15.056608,22.125597 1.580613,1.061943"
+             id="path909" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.63394144,0,0,0.63394144,-21.930779,-13.027372)"
+       id="g3918-1-7"
+       inkscape:export-xdpi="149.1125"
+       inkscape:export-ydpi="149.1125"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z.png"
+       style="filter:url(#filter5060-1)">
+      <ellipse
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\gfx\round.png"
+         transform="matrix(0.12425,0,0,0.12678571,39.315,17.45053)"
+         id="path4099-7-3"
+         style="fill:none;stroke:#ffffff;stroke-width:11.9511;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="114.28571"
+         cy="175.21933"
+         rx="142.85715"
+         ry="140" />
+    </g>
+    <g
+       transform="matrix(0.63394144,0,0,0.63394144,-21.930779,-13.027372)"
+       id="g3918-1-7-2"
+       inkscape:export-xdpi="149.1125"
+       inkscape:export-ydpi="149.1125"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z.png"
+       style="filter:url(#filter5060-1-2)">
+      <ellipse
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\gfx\round.png"
+         transform="matrix(0.12425,0,0,0.12678571,39.315,17.45053)"
+         id="path4099-7-3-0"
+         style="fill:none;stroke:#ffffff;stroke-width:11.9511;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="114.28571"
+         cy="175.21933"
+         rx="142.85715"
+         ry="140" />
+    </g>
+    <g
+       transform="matrix(0.63394144,0,0,0.63394144,-21.930779,-13.027372)"
+       id="g3918-1-7-8"
+       inkscape:export-xdpi="149.1125"
+       inkscape:export-ydpi="149.1125"
+       inkscape:export-filename="/home/sergio/Projects/libretro/overlays/common-overlays/gamepads/flat2/Z.png"
+       style="filter:url(#filter5060-1-23)">
+      <ellipse
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\gfx\round.png"
+         transform="matrix(0.12425,0,0,0.12678571,39.315,17.45053)"
+         id="path4099-7-3-9"
+         style="fill:none;stroke:#ffffff;stroke-width:11.9511;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="114.28571"
+         cy="175.21933"
+         rx="142.85715"
+         ry="140" />
+    </g>
+  </g>
+</svg>
